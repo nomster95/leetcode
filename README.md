@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/nomster95/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/nomster95/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nomster95/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -115,5 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nomster95/leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nomster95/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
