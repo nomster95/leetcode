@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nomster95/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nomster95/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nomster95/leetcode/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nomster95/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nomster95/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/nomster95/leetcode/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/nomster95/leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nomster95/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/nomster95/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nomster95/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nomster95/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
