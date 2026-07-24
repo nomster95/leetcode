@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nomster95/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nomster95/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nomster95/leetcode/tree/master/0283-move-zeroes) |
+| [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nomster95/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
