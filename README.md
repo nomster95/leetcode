@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nomster95/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nomster95/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nomster95/leetcode/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nomster95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nomster95/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nomster95/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nomster95/leetcode/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nomster95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/nomster95/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/nomster95/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nomster95/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nomster95/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nomster95/leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nomster95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/nomster95/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
