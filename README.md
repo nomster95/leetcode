@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nomster95/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/nomster95/leetcode/tree/master/0771-jewels-and-stones) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3945-digit-frequency-score](https://github.com/nomster95/leetcode/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nomster95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/nomster95/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/nomster95/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3945-digit-frequency-score](https://github.com/nomster95/leetcode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
