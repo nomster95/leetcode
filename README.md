@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nomster95/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nomster95/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nomster95/leetcode/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nomster95/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nomster95/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/nomster95/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nomster95/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nomster95/leetcode/tree/master/0231-power-of-two) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nomster95/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nomster95/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/nomster95/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nomster95/leetcode/tree/master/1572-matrix-diagonal-sum) |
