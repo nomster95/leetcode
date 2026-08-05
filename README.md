@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/nomster95/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nomster95/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nomster95/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nomster95/leetcode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nomster95/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/nomster95/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Enumeration
 |  |
 | ------- |
