@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nomster95/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nomster95/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nomster95/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nomster95/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/nomster95/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/nomster95/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nomster95/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nomster95/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nomster95/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nomster95/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nomster95/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/nomster95/leetcode/tree/master/0877-stone-game) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nomster95/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nomster95/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
