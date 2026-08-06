@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nomster95/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nomster95/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nomster95/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/nomster95/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/nomster95/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Enumeration
 |  |
 | ------- |
