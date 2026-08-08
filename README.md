@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nomster95/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nomster95/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/nomster95/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/nomster95/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nomster95/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nomster95/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nomster95/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/nomster95/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nomster95/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nomster95/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nomster95/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/nomster95/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nomster95/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nomster95/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nomster95/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nomster95/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
