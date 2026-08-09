@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nomster95/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nomster95/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/nomster95/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/nomster95/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/nomster95/leetcode/tree/master/1816-truncate-sentence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nomster95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nomster95/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nomster95/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nomster95/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/nomster95/leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/nomster95/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nomster95/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nomster95/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nomster95/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nomster95/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/nomster95/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/nomster95/leetcode/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Counting Sort
 |  |
 | ------- |
