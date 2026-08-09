@@ -6,11 +6,9 @@ class Solution:
             while i>1:
                 count+=i&1
                 i = i>>1
-
             if i==1:
-                count+=1
-            ans.append(count)        
-             
+                count+=1   
+            ans.append(count)   
 
         return ans      
 
