@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nomster95/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nomster95/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/nomster95/leetcode/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/nomster95/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/nomster95/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Sorting
