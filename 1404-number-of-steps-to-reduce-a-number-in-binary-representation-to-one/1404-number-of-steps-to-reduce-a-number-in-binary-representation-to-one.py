@@ -4,12 +4,13 @@ class Solution:
         steps = 0    
 
         while num>1:
-            if num%2!=0:
+            if num&1:
                 num+=1
-                steps+=1
+                
             else:
                 num = num>>1
-                steps+=1     
+
+            steps+=1     
 
         return steps           
 
