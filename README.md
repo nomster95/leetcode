@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/nomster95/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/nomster95/leetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/nomster95/leetcode/tree/master/3895-count-digit-appearances) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/nomster95/leetcode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nomster95/leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/nomster95/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nomster95/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Tree
 |  |
 | ------- |
