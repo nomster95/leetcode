@@ -1,12 +1,6 @@
 class Solution:
     def numSteps(self, s: str) -> int:
-        p2 = 1
-        num = 0
-        for i in range(len(s)-1,-1,-1):
-            if s[i]=="1":
-                num = num + p2
-            p2 = p2*2
-
+        num = int(s,2)
         steps = 0    
 
         while num>1:
