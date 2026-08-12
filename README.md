@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nomster95/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nomster95/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nomster95/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nomster95/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nomster95/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nomster95/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/nomster95/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/nomster95/leetcode/tree/master/3731-find-missing-elements) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nomster95/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nomster95/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nomster95/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3285-find-indices-of-stable-mountains](https://github.com/nomster95/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nomster95/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
