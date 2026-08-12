@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/nomster95/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/nomster95/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nomster95/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nomster95/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nomster95/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
