@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nomster95/leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nomster95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nomster95/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/nomster95/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/nomster95/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nomster95/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nomster95/leetcode/tree/master/0796-rotate-string) |
