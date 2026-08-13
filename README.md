@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/nomster95/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/nomster95/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nomster95/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nomster95/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nomster95/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nomster95/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nomster95/leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/nomster95/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nomster95/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nomster95/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/nomster95/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nomster95/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/nomster95/leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/nomster95/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/nomster95/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nomster95/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Design
 |  |
