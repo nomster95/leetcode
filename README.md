@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nomster95/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nomster95/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/nomster95/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/nomster95/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nomster95/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2326-spiral-matrix-iv](https://github.com/nomster95/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nomster95/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/nomster95/leetcode/tree/master/3271-hash-divided-string) |
