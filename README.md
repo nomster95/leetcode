@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/nomster95/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3227-vowels-game-in-a-string](https://github.com/nomster95/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/nomster95/leetcode/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/nomster95/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nomster95/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nomster95/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nomster95/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/nomster95/leetcode/tree/master/3099-harshad-number) |
+| [3227-vowels-game-in-a-string](https://github.com/nomster95/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nomster95/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nomster95/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -644,12 +646,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/nomster95/leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/nomster95/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/nomster95/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nomster95/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/nomster95/leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3227-vowels-game-in-a-string](https://github.com/nomster95/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
