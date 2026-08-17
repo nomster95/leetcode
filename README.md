@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3668-restore-finishing-order](https://github.com/nomster95/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/nomster95/leetcode/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nomster95/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nomster95/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3941-password-strength](https://github.com/nomster95/leetcode/tree/master/3941-password-strength) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nomster95/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/nomster95/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/nomster95/leetcode/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nomster95/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3895-count-digit-appearances](https://github.com/nomster95/leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
