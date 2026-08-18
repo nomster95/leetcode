@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/nomster95/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nomster95/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/nomster95/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nomster95/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nomster95/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nomster95/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nomster95/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nomster95/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/nomster95/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nomster95/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
