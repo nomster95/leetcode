@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/nomster95/leetcode/tree/master/0771-jewels-and-stones) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/nomster95/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nomster95/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nomster95/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/nomster95/leetcode/tree/master/1630-arithmetic-subarrays) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/nomster95/leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nomster95/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/nomster95/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nomster95/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nomster95/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nomster95/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/nomster95/leetcode/tree/master/0397-integer-replacement) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
