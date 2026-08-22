@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nomster95/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nomster95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/nomster95/leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/nomster95/leetcode/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nomster95/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/nomster95/leetcode/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nomster95/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nomster95/leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nomster95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/nomster95/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/nomster95/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nomster95/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nomster95/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
