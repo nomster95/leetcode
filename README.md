@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nomster95/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/nomster95/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nomster95/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nomster95/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nomster95/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nomster95/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/nomster95/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nomster95/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
