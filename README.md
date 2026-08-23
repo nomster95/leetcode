@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/nomster95/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/nomster95/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/nomster95/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nomster95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nomster95/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/nomster95/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/nomster95/leetcode/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/nomster95/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
 | [0849-maximize-distance-to-closest-person](https://github.com/nomster95/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nomster95/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nomster95/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/nomster95/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/nomster95/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/nomster95/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nomster95/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
