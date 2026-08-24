@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nomster95/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nomster95/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nomster95/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nomster95/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nomster95/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nomster95/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nomster95/leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/nomster95/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nomster95/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/nomster95/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/nomster95/leetcode/tree/master/2427-number-of-common-factors) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nomster95/leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/nomster95/leetcode/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nomster95/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1390-four-divisors](https://github.com/nomster95/leetcode/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/nomster95/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nomster95/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Geometry
 |  |
@@ -958,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/nomster95/leetcode/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/nomster95/leetcode/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nomster95/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nomster95/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Database
