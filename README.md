@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nomster95/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nomster95/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nomster95/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nomster95/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nomster95/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nomster95/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 ## Quickselect
@@ -887,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/nomster95/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nomster95/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nomster95/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
