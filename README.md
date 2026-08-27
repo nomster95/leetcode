@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nomster95/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nomster95/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3894-traffic-signal-color](https://github.com/nomster95/leetcode/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
 | [3941-password-strength](https://github.com/nomster95/leetcode/tree/master/3941-password-strength) |
 ## String Matching
 |  |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/nomster95/leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/nomster95/leetcode/tree/master/3899-angles-of-a-triangle) |
+| [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/nomster95/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/nomster95/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/nomster95/leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3894-traffic-signal-color](https://github.com/nomster95/leetcode/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/nomster95/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
