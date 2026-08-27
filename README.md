@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/nomster95/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/nomster95/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/nomster95/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/nomster95/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nomster95/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/nomster95/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nomster95/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nomster95/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/nomster95/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/nomster95/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nomster95/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nomster95/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
