@@ -1,17 +1,19 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
-        subsets = 1<<n
-        ans = []
-        for num in range(subsets):
-            store = []
-            for i in range(n):
-                if num&(1<<i)!=0:
-                    store.append(nums[i])
+        res , sol = [] , []
+        def backtrack(i):
+            if i==n:
+                res.append(sol[:])
+                return
 
-            ans.append(store)  
+            #dont pick nums[i]
+            backtrack(i+1)
+            #pick nums[i]
+            sol.append(nums[i])
+            backtrack(i+1) 
+            sol.pop()
 
-        return ans          
-
-
-    
+        backtrack(0)
+        return res     
+        
