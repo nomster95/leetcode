@@ -7,10 +7,9 @@ class Solution:
     
 
     def nodesBetweenCriticalPoints(self, head: Optional[ListNode]) -> List[int]:
-        if head.next.next==None:
+        if head.next==None or head.next.next==None:
             return [-1,-1]
-        if head.next==None:
-            return [-1,-1]    
+       
         curr = head
         ans = []
         while curr!=None:
