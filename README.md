@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/nomster95/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/nomster95/leetcode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/nomster95/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0916-word-subsets](https://github.com/nomster95/leetcode/tree/master/0916-word-subsets) |
 | [1108-defanging-an-ip-address](https://github.com/nomster95/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nomster95/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/nomster95/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/nomster95/leetcode/tree/master/0846-hand-of-straights) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/nomster95/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0916-word-subsets](https://github.com/nomster95/leetcode/tree/master/0916-word-subsets) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nomster95/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nomster95/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/nomster95/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/nomster95/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0916-word-subsets](https://github.com/nomster95/leetcode/tree/master/0916-word-subsets) |
 | [0946-validate-stack-sequences](https://github.com/nomster95/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
