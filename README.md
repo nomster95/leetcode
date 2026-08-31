@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nomster95/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nomster95/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nomster95/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/nomster95/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/nomster95/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nomster95/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nomster95/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/nomster95/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nomster95/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nomster95/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
