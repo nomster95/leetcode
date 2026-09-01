@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/nomster95/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/nomster95/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1630-arithmetic-subarrays](https://github.com/nomster95/leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/nomster95/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nomster95/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nomster95/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/nomster95/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nomster95/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/nomster95/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/nomster95/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nomster95/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1816-truncate-sentence](https://github.com/nomster95/leetcode/tree/master/1816-truncate-sentence) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nomster95/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nomster95/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nomster95/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/nomster95/leetcode/tree/master/1400-construct-k-palindrome-strings) |
+| [1748-sum-of-unique-elements](https://github.com/nomster95/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nomster95/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nomster95/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
