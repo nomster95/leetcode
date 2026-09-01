@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3163-string-compression-iii](https://github.com/nomster95/leetcode/tree/master/3163-string-compression-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nomster95/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3227-vowels-game-in-a-string](https://github.com/nomster95/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/nomster95/leetcode/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/nomster95/leetcode/tree/master/3280-convert-date-to-binary) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/nomster95/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nomster95/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nomster95/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nomster95/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nomster95/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nomster95/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/nomster95/leetcode/tree/master/0216-combination-sum-iii) |
 | [1079-letter-tile-possibilities](https://github.com/nomster95/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nomster95/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prime Factorization
 |  |
 | ------- |
