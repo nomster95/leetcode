@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nomster95/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nomster95/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nomster95/leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nomster95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nomster95/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nomster95/leetcode/tree/master/0389-find-the-difference) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nomster95/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nomster95/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nomster95/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nomster95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/nomster95/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nomster95/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nomster95/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nomster95/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nomster95/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nomster95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/nomster95/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/nomster95/leetcode/tree/master/0414-third-maximum-number) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/nomster95/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nomster95/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nomster95/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/nomster95/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nomster95/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nomster95/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/nomster95/leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nomster95/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/nomster95/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nomster95/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -950,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nomster95/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nomster95/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -962,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nomster95/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -1117,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nomster95/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
