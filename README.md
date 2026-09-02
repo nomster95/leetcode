@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/nomster95/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
 | [3941-password-strength](https://github.com/nomster95/leetcode/tree/master/3941-password-strength) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/nomster95/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## String Matching
 |  |
 | ------- |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nomster95/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nomster95/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nomster95/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/nomster95/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sorting
 |  |
 | ------- |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/nomster95/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nomster95/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/nomster95/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1155,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/nomster95/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nomster95/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nomster95/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/nomster95/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Prime Factorization
 |  |
 | ------- |
