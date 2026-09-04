@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nomster95/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nomster95/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/nomster95/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nomster95/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nomster95/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nomster95/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
