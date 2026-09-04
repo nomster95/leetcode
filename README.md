@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3163-string-compression-iii](https://github.com/nomster95/leetcode/tree/master/3163-string-compression-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nomster95/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/nomster95/leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/nomster95/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/nomster95/leetcode/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/nomster95/leetcode/tree/master/3280-convert-date-to-binary) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nomster95/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nomster95/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/nomster95/leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nomster95/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nomster95/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/nomster95/leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nomster95/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
