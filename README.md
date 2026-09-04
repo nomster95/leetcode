@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/nomster95/leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/nomster95/leetcode/tree/master/3899-angles-of-a-triangle) |
+| [3903-smallest-stable-index-i](https://github.com/nomster95/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/nomster95/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nomster95/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1829-maximum-xor-for-each-query](https://github.com/nomster95/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nomster95/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3903-smallest-stable-index-i](https://github.com/nomster95/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
