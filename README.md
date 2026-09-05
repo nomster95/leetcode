@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nomster95/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/nomster95/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/nomster95/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nomster95/leetcode/tree/master/0965-univalued-binary-tree) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nomster95/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nomster95/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/nomster95/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/nomster95/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nomster95/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nomster95/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nomster95/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/nomster95/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/nomster95/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nomster95/leetcode/tree/master/0965-univalued-binary-tree) |
