@@ -12,12 +12,10 @@ class Solution:
             elif colors[i-1]==colors[i]==colors[i+1]=='B':
                 bob+=1
 
-        if alice==bob:
-            return False
-        elif alice>bob:
+        if alice>bob:
             return True
-        else:
-            return False                     
+
+        return False                     
 
         
 
