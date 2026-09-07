@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nomster95/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nomster95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/nomster95/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/nomster95/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nomster95/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nomster95/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nomster95/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nomster95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/nomster95/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/nomster95/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/nomster95/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nomster95/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nomster95/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nomster95/leetcode/tree/master/0455-assign-cookies) |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nomster95/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nomster95/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/nomster95/leetcode/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/nomster95/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/nomster95/leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/nomster95/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/nomster95/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -1089,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nomster95/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nomster95/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/nomster95/leetcode/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/nomster95/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nomster95/leetcode/tree/master/0455-assign-cookies) |
 | [0781-rabbits-in-forest](https://github.com/nomster95/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/nomster95/leetcode/tree/master/0846-hand-of-straights) |
