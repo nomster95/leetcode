@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nomster95/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nomster95/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/nomster95/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/nomster95/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nomster95/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nomster95/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nomster95/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nomster95/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nomster95/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nomster95/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/nomster95/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/nomster95/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nomster95/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/nomster95/leetcode/tree/master/0397-integer-replacement) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nomster95/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nomster95/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/nomster95/leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/nomster95/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/nomster95/leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/nomster95/leetcode/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/nomster95/leetcode/tree/master/1079-letter-tile-possibilities) |
