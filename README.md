@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/nomster95/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nomster95/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nomster95/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/nomster95/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nomster95/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/nomster95/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nomster95/leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nomster95/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nomster95/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/nomster95/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
