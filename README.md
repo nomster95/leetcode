@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/nomster95/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nomster95/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/nomster95/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/nomster95/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/nomster95/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/nomster95/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/nomster95/leetcode/tree/master/2810-faulty-keyboard) |
