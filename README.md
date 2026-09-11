@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/nomster95/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3163-string-compression-iii](https://github.com/nomster95/leetcode/tree/master/3163-string-compression-iii) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nomster95/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/nomster95/leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/nomster95/leetcode/tree/master/3227-vowels-game-in-a-string) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/nomster95/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nomster95/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nomster95/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/nomster95/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/nomster95/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nomster95/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nomster95/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/nomster95/leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -1106,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Quickselect
 |  |
 | ------- |
@@ -1167,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nomster95/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nomster95/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nomster95/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
