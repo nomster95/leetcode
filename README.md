@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nomster95/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nomster95/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/nomster95/leetcode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/nomster95/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/nomster95/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nomster95/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nomster95/leetcode/tree/master/0205-isomorphic-strings) |
@@ -1355,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nomster95/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nomster95/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nomster95/leetcode/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/nomster95/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/nomster95/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/nomster95/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/nomster95/leetcode/tree/master/0216-combination-sum-iii) |
