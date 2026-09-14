@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/nomster95/leetcode/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/nomster95/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/nomster95/leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/nomster95/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
