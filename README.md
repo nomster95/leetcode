@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nomster95/leetcode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nomster95/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/nomster95/leetcode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/nomster95/leetcode/tree/master/3819-rotate-non-negative-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/nomster95/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nomster95/leetcode/tree/master/3842-toggle-light-bulbs) |
