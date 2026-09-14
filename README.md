@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nomster95/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/nomster95/leetcode/tree/master/1980-find-unique-binary-string) |
+| [1995-count-special-quadruplets](https://github.com/nomster95/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nomster95/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nomster95/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nomster95/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/nomster95/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1995-count-special-quadruplets](https://github.com/nomster95/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nomster95/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nomster95/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2028-find-missing-observations](https://github.com/nomster95/leetcode/tree/master/2028-find-missing-observations) |
@@ -1298,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/nomster95/leetcode/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
+| [1995-count-special-quadruplets](https://github.com/nomster95/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nomster95/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2427-number-of-common-factors](https://github.com/nomster95/leetcode/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
