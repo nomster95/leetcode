@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/nomster95/leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nomster95/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/nomster95/leetcode/tree/master/1528-shuffle-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nomster95/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nomster95/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nomster95/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/nomster95/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nomster95/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1630-arithmetic-subarrays](https://github.com/nomster95/leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nomster95/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nomster95/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/nomster95/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/nomster95/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nomster95/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1630-arithmetic-subarrays](https://github.com/nomster95/leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nomster95/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -1232,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/nomster95/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nomster95/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nomster95/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
