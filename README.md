@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nomster95/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nomster95/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nomster95/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nomster95/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/nomster95/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nomster95/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -1234,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/nomster95/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nomster95/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/nomster95/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nomster95/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
