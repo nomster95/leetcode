@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nomster95/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nomster95/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nomster95/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-relocate-marbles](https://github.com/nomster95/leetcode/tree/master/2766-relocate-marbles) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nomster95/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nomster95/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nomster95/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/nomster95/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
