@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/nomster95/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nomster95/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/nomster95/leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nomster95/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2961-double-modular-exponentiation](https://github.com/nomster95/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nomster95/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -1350,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nomster95/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/nomster95/leetcode/tree/master/2843-count-symmetric-integers) |
+| [2951-find-the-peaks](https://github.com/nomster95/leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nomster95/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
