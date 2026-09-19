@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2506-count-pairs-of-similar-strings](https://github.com/nomster95/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nomster95/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nomster95/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nomster95/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2615-sum-of-distances](https://github.com/nomster95/leetcode/tree/master/2615-sum-of-distances) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nomster95/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nomster95/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nomster95/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nomster95/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/nomster95/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nomster95/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nomster95/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nomster95/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nomster95/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2579-count-total-number-of-colored-cells](https://github.com/nomster95/leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2652-sum-multiples](https://github.com/nomster95/leetcode/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nomster95/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/nomster95/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nomster95/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nomster95/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nomster95/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2766-relocate-marbles](https://github.com/nomster95/leetcode/tree/master/2766-relocate-marbles) |
