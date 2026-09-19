@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nomster95/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/nomster95/leetcode/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nomster95/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nomster95/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/nomster95/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nomster95/leetcode/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nomster95/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nomster95/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nomster95/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -908,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nomster95/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nomster95/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3839-number-of-prefix-connected-groups](https://github.com/nomster95/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
@@ -1419,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/nomster95/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/nomster95/leetcode/tree/master/2615-sum-of-distances) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nomster95/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/nomster95/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
@@ -1561,4 +1566,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/nomster95/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
