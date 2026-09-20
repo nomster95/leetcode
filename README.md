@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3612-process-string-with-special-operations-i](https://github.com/nomster95/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3675-minimum-operations-to-transform-string](https://github.com/nomster95/leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nomster95/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nomster95/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nomster95/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -1336,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nomster95/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3675-minimum-operations-to-transform-string](https://github.com/nomster95/leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/nomster95/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
