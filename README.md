@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/nomster95/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/nomster95/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/nomster95/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nomster95/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/nomster95/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/nomster95/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nomster95/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nomster95/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1816-truncate-sentence](https://github.com/nomster95/leetcode/tree/master/1816-truncate-sentence) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nomster95/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/nomster95/leetcode/tree/master/1829-maximum-xor-for-each-query) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/nomster95/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nomster95/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nomster95/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nomster95/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/nomster95/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/nomster95/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/nomster95/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nomster95/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nomster95/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
