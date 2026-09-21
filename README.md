@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nomster95/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-relocate-marbles](https://github.com/nomster95/leetcode/tree/master/2766-relocate-marbles) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2947-count-beautiful-substrings-i](https://github.com/nomster95/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nomster95/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nomster95/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/nomster95/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/nomster95/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nomster95/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/nomster95/leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nomster95/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nomster95/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/nomster95/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nomster95/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nomster95/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/nomster95/leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -1342,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nomster95/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nomster95/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nomster95/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
