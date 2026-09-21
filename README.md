@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/nomster95/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nomster95/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-relocate-marbles](https://github.com/nomster95/leetcode/tree/master/2766-relocate-marbles) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2947-count-beautiful-substrings-i](https://github.com/nomster95/leetcode/tree/master/2947-count-beautiful-substrings-i) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/nomster95/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/nomster95/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nomster95/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/nomster95/leetcode/tree/master/2951-find-the-peaks) |
@@ -1375,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nomster95/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nomster95/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nomster95/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
