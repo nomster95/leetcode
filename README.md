@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3612-process-string-with-special-operations-i](https://github.com/nomster95/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3675-minimum-operations-to-transform-string](https://github.com/nomster95/leetcode/tree/master/3675-minimum-operations-to-transform-string) |
+| [3713-longest-balanced-substring-i](https://github.com/nomster95/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nomster95/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nomster95/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nomster95/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nomster95/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/nomster95/leetcode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3713-longest-balanced-substring-i](https://github.com/nomster95/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nomster95/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/nomster95/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nomster95/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3713-longest-balanced-substring-i](https://github.com/nomster95/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nomster95/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3839-number-of-prefix-connected-groups](https://github.com/nomster95/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
@@ -1418,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/nomster95/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/nomster95/leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nomster95/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3713-longest-balanced-substring-i](https://github.com/nomster95/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/nomster95/leetcode/tree/master/3765-complete-prime-number) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
