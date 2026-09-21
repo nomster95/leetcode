@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nomster95/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/nomster95/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nomster95/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/nomster95/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nomster95/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/nomster95/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2364-count-number-of-bad-pairs](https://github.com/nomster95/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nomster95/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1340,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/nomster95/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nomster95/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/nomster95/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/nomster95/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nomster95/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
