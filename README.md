@@ -759,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/nomster95/leetcode/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nomster95/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nomster95/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/nomster95/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/nomster95/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/nomster95/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nomster95/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -1337,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/nomster95/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/nomster95/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/nomster95/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
 | ------- |
