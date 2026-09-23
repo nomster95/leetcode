@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/nomster95/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nomster95/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/nomster95/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nomster95/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nomster95/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nomster95/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/nomster95/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -1465,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nomster95/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nomster95/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
