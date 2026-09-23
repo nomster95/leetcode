@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nomster95/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/nomster95/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/nomster95/leetcode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/nomster95/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/nomster95/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nomster95/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/nomster95/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/nomster95/leetcode/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nomster95/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/nomster95/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/nomster95/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nomster95/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3663-find-the-least-frequent-digit](https://github.com/nomster95/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/nomster95/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/nomster95/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -980,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nomster95/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/nomster95/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/nomster95/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
