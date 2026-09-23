@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3923-minimum-generations-to-target-point](https://github.com/nomster95/leetcode/tree/master/3923-minimum-generations-to-target-point) |
 | [3925-concatenate-array-with-reverse](https://github.com/nomster95/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/nomster95/leetcode/tree/master/3978-unique-middle-element) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
 |  |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nomster95/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/nomster95/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Counting
 |  |
 | ------- |
@@ -1525,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/nomster95/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/nomster95/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -1662,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/nomster95/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -1671,10 +1675,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/nomster95/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Ordered Set
 |  |
 | ------- |
