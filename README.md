@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/nomster95/leetcode/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/nomster95/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/nomster95/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/nomster95/leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
@@ -1576,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/nomster95/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/nomster95/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/nomster95/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/nomster95/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Union-Find
