@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nomster95/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nomster95/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nomster95/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nomster95/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/nomster95/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/nomster95/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/nomster95/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nomster95/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nomster95/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nomster95/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nomster95/leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nomster95/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nomster95/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nomster95/leetcode/tree/master/0202-happy-number) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nomster95/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nomster95/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nomster95/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nomster95/leetcode/tree/master/0136-single-number) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nomster95/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nomster95/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/nomster95/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nomster95/leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/nomster95/leetcode/tree/master/0289-game-of-life) |
 | [0537-complex-number-multiplication](https://github.com/nomster95/leetcode/tree/master/0537-complex-number-multiplication) |
