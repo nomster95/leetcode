@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3978-unique-middle-element](https://github.com/nomster95/leetcode/tree/master/3978-unique-middle-element) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4024-nearest-available-drone](https://github.com/nomster95/leetcode/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
 | ------- |
@@ -1541,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/nomster95/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/nomster95/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/nomster95/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4024-nearest-available-drone](https://github.com/nomster95/leetcode/tree/master/4024-nearest-available-drone) |
 ## Monotonic Stack
 |  |
 | ------- |
