@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nomster95/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nomster95/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nomster95/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nomster95/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nomster95/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nomster95/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nomster95/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nomster95/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/nomster95/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nomster95/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nomster95/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nomster95/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nomster95/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/nomster95/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nomster95/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -1441,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nomster95/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/nomster95/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nomster95/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/nomster95/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -1720,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nomster95/leetcode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nomster95/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nomster95/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nomster95/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
 | ------- |
