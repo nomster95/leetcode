@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/nomster95/leetcode/tree/master/2028-find-missing-observations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nomster95/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nomster95/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2079-watering-plants](https://github.com/nomster95/leetcode/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nomster95/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nomster95/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/nomster95/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/nomster95/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nomster95/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2028-find-missing-observations](https://github.com/nomster95/leetcode/tree/master/2028-find-missing-observations) |
+| [2079-watering-plants](https://github.com/nomster95/leetcode/tree/master/2079-watering-plants) |
 | [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nomster95/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
