@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/nomster95/leetcode/tree/master/4024-nearest-available-drone) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/nomster95/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Math
 |  |
 | ------- |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/nomster95/leetcode/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/nomster95/leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/nomster95/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
