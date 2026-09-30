@@ -4,10 +4,10 @@ class Solution:
         if goal<0:
             return 0
         while r<len(nums):
-            sums+=(nums[r]%2)
+            sums+=(nums[r]&1)
 
             while sums>goal:
-                sums = sums - (nums[l]%2)
+                sums = sums - (nums[l]&1)
                 l+=1
 
             count += r-l+1
