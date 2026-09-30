@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1079-letter-tile-possibilities](https://github.com/nomster95/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1207-unique-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nomster95/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nomster95/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nomster95/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/nomster95/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1207-unique-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nomster95/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nomster95/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nomster95/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/nomster95/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/nomster95/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nomster95/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nomster95/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nomster95/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nomster95/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nomster95/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -1506,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/nomster95/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nomster95/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/nomster95/leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nomster95/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nomster95/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nomster95/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nomster95/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1627,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/nomster95/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/nomster95/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nomster95/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nomster95/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nomster95/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nomster95/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
