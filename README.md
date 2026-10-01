@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nomster95/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2295-replace-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nomster95/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2317-maximum-xor-after-operations](https://github.com/nomster95/leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/nomster95/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/nomster95/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nomster95/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nomster95/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nomster95/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nomster95/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1538,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nomster95/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/nomster95/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nomster95/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nomster95/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nomster95/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nomster95/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1669,6 +1672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nomster95/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/nomster95/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nomster95/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nomster95/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/nomster95/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/nomster95/leetcode/tree/master/2615-sum-of-distances) |
 | [2947-count-beautiful-substrings-i](https://github.com/nomster95/leetcode/tree/master/2947-count-beautiful-substrings-i) |
