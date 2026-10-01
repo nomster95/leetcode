@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nomster95/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nomster95/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nomster95/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/nomster95/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/nomster95/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3295-report-spam-message](https://github.com/nomster95/leetcode/tree/master/3295-report-spam-message) |
@@ -1531,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nomster95/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nomster95/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/nomster95/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/nomster95/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Brainteaser
