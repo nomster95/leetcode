@@ -13,8 +13,8 @@ class Solution:
                 freq[nums[l]]-=1
                 l+=1
 
-            if freq[nums[r]]<=k:
-                max_len = max(max_len,r-l+1)
+            
+            max_len = max(max_len,r-l+1)
 
             r+=1    
 
