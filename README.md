@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/nomster95/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nomster95/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/nomster95/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nomster95/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/nomster95/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nomster95/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/nomster95/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2109-adding-spaces-to-a-string](https://github.com/nomster95/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nomster95/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/nomster95/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nomster95/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nomster95/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/nomster95/leetcode/tree/master/2028-find-missing-observations) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/nomster95/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nomster95/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/nomster95/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nomster95/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/nomster95/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/nomster95/leetcode/tree/master/2235-add-two-integers) |
@@ -1618,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/nomster95/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/nomster95/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/nomster95/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/nomster95/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nomster95/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/nomster95/leetcode/tree/master/2326-spiral-matrix-iv) |
