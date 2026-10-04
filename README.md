@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/nomster95/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nomster95/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nomster95/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/nomster95/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nomster95/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/nomster95/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nomster95/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1136,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nomster95/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nomster95/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/nomster95/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nomster95/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
@@ -1572,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/nomster95/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nomster95/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nomster95/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/nomster95/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nomster95/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nomster95/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1893,4 +1896,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/nomster95/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/nomster95/leetcode/tree/master/0052-n-queens-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/nomster95/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
