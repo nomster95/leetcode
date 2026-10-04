@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nomster95/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3663-find-the-least-frequent-digit](https://github.com/nomster95/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/nomster95/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/nomster95/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/nomster95/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1539,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3675-minimum-operations-to-transform-string](https://github.com/nomster95/leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/nomster95/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/nomster95/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/nomster95/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
