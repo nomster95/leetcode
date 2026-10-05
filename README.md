@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nomster95/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nomster95/leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/nomster95/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nomster95/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nomster95/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/nomster95/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1666,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/nomster95/leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nomster95/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nomster95/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/nomster95/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/nomster95/leetcode/tree/master/3765-complete-prime-number) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
