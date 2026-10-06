@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nomster95/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nomster95/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nomster95/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/nomster95/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nomster95/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/nomster95/leetcode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nomster95/leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/nomster95/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3745-maximize-expression-of-three-elements](https://github.com/nomster95/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nomster95/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/nomster95/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/nomster95/leetcode/tree/master/3913-sort-vowels-by-frequency) |
@@ -1565,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nomster95/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/nomster95/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3745-maximize-expression-of-three-elements](https://github.com/nomster95/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/nomster95/leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -1681,6 +1684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/nomster95/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nomster95/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/nomster95/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3745-maximize-expression-of-three-elements](https://github.com/nomster95/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/nomster95/leetcode/tree/master/3765-complete-prime-number) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
