@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nomster95/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nomster95/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nomster95/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/nomster95/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/nomster95/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nomster95/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nomster95/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1337,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nomster95/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/nomster95/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nomster95/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nomster95/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nomster95/leetcode/tree/master/0226-invert-binary-tree) |
@@ -1438,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/nomster95/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nomster95/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nomster95/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/nomster95/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nomster95/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nomster95/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nomster95/leetcode/tree/master/0226-invert-binary-tree) |
@@ -1664,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nomster95/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nomster95/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nomster95/leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/nomster95/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nomster95/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nomster95/leetcode/tree/master/0289-game-of-life) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nomster95/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -1774,6 +1778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nomster95/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/nomster95/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nomster95/leetcode/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimax
