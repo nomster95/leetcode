@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nomster95/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/nomster95/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/nomster95/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/nomster95/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/nomster95/leetcode/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/nomster95/leetcode/tree/master/0781-rabbits-in-forest) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nomster95/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/nomster95/leetcode/tree/master/0655-print-binary-tree) |
+| [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/nomster95/leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nomster95/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/nomster95/leetcode/tree/master/0814-binary-tree-pruning) |
@@ -1451,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nomster95/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nomster95/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/nomster95/leetcode/tree/master/0655-print-binary-tree) |
+| [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/nomster95/leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nomster95/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nomster95/leetcode/tree/master/0965-univalued-binary-tree) |
@@ -1670,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nomster95/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nomster95/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nomster95/leetcode/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nomster95/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nomster95/leetcode/tree/master/0867-transpose-matrix) |
@@ -1780,6 +1784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nomster95/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nomster95/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nomster95/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimax
 |  |
