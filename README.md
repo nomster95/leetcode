@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/nomster95/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/nomster95/leetcode/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/nomster95/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/nomster95/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3923-minimum-generations-to-target-point](https://github.com/nomster95/leetcode/tree/master/3923-minimum-generations-to-target-point) |
 | [3941-password-strength](https://github.com/nomster95/leetcode/tree/master/3941-password-strength) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/nomster95/leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3866-first-unique-even-element](https://github.com/nomster95/leetcode/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/nomster95/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nomster95/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nomster95/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/nomster95/leetcode/tree/master/3895-count-digit-appearances) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/nomster95/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/nomster95/leetcode/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/nomster95/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/nomster95/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/nomster95/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/nomster95/leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -1586,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/nomster95/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/nomster95/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/nomster95/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/nomster95/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
