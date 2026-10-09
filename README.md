@@ -1381,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nomster95/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nomster95/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nomster95/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/nomster95/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
@@ -1478,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nomster95/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nomster95/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/nomster95/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -1805,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nomster95/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/nomster95/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimax
 |  |
@@ -1837,6 +1840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2685-count-the-number-of-complete-components](https://github.com/nomster95/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bucket Sort
 |  |
