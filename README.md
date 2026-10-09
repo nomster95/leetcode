@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nomster95/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nomster95/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/nomster95/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nomster95/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-shuffle-string](https://github.com/nomster95/leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/nomster95/leetcode/tree/master/1534-count-good-triplets) |
@@ -1509,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nomster95/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nomster95/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1829,6 +1831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/nomster95/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/nomster95/leetcode/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nomster95/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -1992,12 +1995,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/nomster95/leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nomster95/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nomster95/leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nomster95/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
