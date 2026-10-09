@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nomster95/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nomster95/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/nomster95/leetcode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/nomster95/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1207-unique-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/nomster95/leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/nomster95/leetcode/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/nomster95/leetcode/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nomster95/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nomster95/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1670,6 +1672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/nomster95/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nomster95/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nomster95/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
@@ -2036,4 +2039,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/nomster95/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
