@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/nomster95/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2347-best-poker-hand](https://github.com/nomster95/leetcode/tree/master/2347-best-poker-hand) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/nomster95/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/nomster95/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nomster95/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/nomster95/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/nomster95/leetcode/tree/master/2235-add-two-integers) |
 | [2317-maximum-xor-after-operations](https://github.com/nomster95/leetcode/tree/master/2317-maximum-xor-after-operations) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/nomster95/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/nomster95/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/nomster95/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/nomster95/leetcode/tree/master/2413-smallest-even-multiple) |
