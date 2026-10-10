@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/nomster95/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/nomster95/leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nomster95/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/nomster95/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/nomster95/leetcode/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nomster95/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nomster95/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/nomster95/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/nomster95/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/nomster95/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/nomster95/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/nomster95/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nomster95/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
