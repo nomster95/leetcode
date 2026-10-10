@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/nomster95/leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/nomster95/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nomster95/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/nomster95/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/nomster95/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
