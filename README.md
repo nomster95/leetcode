@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nomster95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/nomster95/leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/nomster95/leetcode/tree/master/0414-third-maximum-number) |
+| [0419-battleships-in-a-board](https://github.com/nomster95/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/nomster95/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nomster95/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nomster95/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -1364,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nomster95/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0419-battleships-in-a-board](https://github.com/nomster95/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/nomster95/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nomster95/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nomster95/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1706,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nomster95/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nomster95/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nomster95/leetcode/tree/master/0289-game-of-life) |
+| [0419-battleships-in-a-board](https://github.com/nomster95/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nomster95/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
