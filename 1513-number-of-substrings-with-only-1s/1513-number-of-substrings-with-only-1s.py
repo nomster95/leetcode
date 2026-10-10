@@ -3,15 +3,20 @@ class Solution:
         count = 0
         n = 0
         mod = 10**9 + 7
+        r = 0
+        while r<len(s):
+            l = r
+            while l<len(s) and s[l]=="1":
+                count = (count + (l-r+1))%mod
+                l+=1
 
-        for i in s:
-            if i=="1":
-                n+=1
-                count = (count+n)%mod
-            else:
-                n = 0
+            r = l+1    
 
-        return count            
+        return count    
+
+
+
+          
 
 
        
