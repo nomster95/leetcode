@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nomster95/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nomster95/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/nomster95/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nomster95/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nomster95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nomster95/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -1482,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/nomster95/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nomster95/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nomster95/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/nomster95/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nomster95/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nomster95/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/nomster95/leetcode/tree/master/0655-print-binary-tree) |
@@ -1566,6 +1568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/nomster95/leetcode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/nomster95/leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/nomster95/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/nomster95/leetcode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/nomster95/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/nomster95/leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/nomster95/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -1718,6 +1721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nomster95/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nomster95/leetcode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/nomster95/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/nomster95/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nomster95/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
