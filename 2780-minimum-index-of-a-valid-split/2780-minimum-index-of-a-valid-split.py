@@ -9,9 +9,10 @@ class Solution:
             else:
                 freq[i]+=1
 
-        sorted_f = sorted(freq.items() , key=lambda x:x[1] , reverse = True)
-        max_e = sorted_f[0][0]
-        max_f = sorted_f[0][1]
+       
+        
+        max_e = max(freq , key=freq.get)
+        max_f = freq[max_e]
         f1 = 0
 
         for i in range(n-1):
