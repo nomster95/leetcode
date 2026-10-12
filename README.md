@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/nomster95/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nomster95/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/nomster95/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nomster95/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1495,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nomster95/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/nomster95/leetcode/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/nomster95/leetcode/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/nomster95/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nomster95/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -1730,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nomster95/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nomster95/leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nomster95/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nomster95/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
