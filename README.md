@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nomster95/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/nomster95/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3839-number-of-prefix-connected-groups](https://github.com/nomster95/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/nomster95/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3856-trim-trailing-vowels](https://github.com/nomster95/leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/nomster95/leetcode/tree/master/3894-traffic-signal-color) |
 | [3913-sort-vowels-by-frequency](https://github.com/nomster95/leetcode/tree/master/3913-sort-vowels-by-frequency) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nomster95/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nomster95/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nomster95/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/nomster95/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/nomster95/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sorting
 |  |
@@ -1644,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nomster95/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/nomster95/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/nomster95/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/nomster95/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/nomster95/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/nomster95/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
