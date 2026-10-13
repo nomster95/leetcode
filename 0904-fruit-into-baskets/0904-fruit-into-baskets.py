@@ -10,7 +10,7 @@ class Solution:
             else:
                 freq[fruits[r]]+=1
 
-            while len(freq)>2:
+            if len(freq)>2:
                 freq[fruits[l]]-=1
                 if freq[fruits[l]]==0:
                     del freq[fruits[l]]
