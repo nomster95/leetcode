@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nomster95/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nomster95/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nomster95/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nomster95/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nomster95/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nomster95/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nomster95/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -1689,6 +1690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/nomster95/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nomster95/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nomster95/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nomster95/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nomster95/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/nomster95/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nomster95/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
