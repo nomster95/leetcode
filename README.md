@@ -947,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/nomster95/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nomster95/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/nomster95/leetcode/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3663-find-the-least-frequent-digit](https://github.com/nomster95/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nomster95/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/nomster95/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
