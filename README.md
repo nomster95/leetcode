@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/nomster95/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1207-unique-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1222-queens-that-can-attack-the-king](https://github.com/nomster95/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nomster95/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/nomster95/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -1263,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/nomster95/leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/nomster95/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/nomster95/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1222-queens-that-can-attack-the-king](https://github.com/nomster95/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nomster95/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/nomster95/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nomster95/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1797,6 +1799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nomster95/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
+| [1222-queens-that-can-attack-the-king](https://github.com/nomster95/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/nomster95/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nomster95/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nomster95/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
