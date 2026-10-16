@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/nomster95/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/nomster95/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3978-unique-middle-element](https://github.com/nomster95/leetcode/tree/master/3978-unique-middle-element) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nomster95/leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/nomster95/leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/nomster95/leetcode/tree/master/4024-nearest-available-drone) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/nomster95/leetcode/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/nomster95/leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nomster95/leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/nomster95/leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/nomster95/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Binary Search
@@ -1357,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nomster95/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nomster95/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nomster95/leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Tree
 |  |
 | ------- |
@@ -1866,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/nomster95/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/nomster95/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/nomster95/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nomster95/leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/nomster95/leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4024-nearest-available-drone](https://github.com/nomster95/leetcode/tree/master/4024-nearest-available-drone) |
 ## Monotonic Stack
