@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nomster95/leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/nomster95/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nomster95/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nomster95/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/nomster95/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/nomster95/leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3866-first-unique-even-element](https://github.com/nomster95/leetcode/tree/master/3866-first-unique-even-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nomster95/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/nomster95/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nomster95/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nomster95/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nomster95/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nomster95/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/nomster95/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nomster95/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/nomster95/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/nomster95/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nomster95/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -1145,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/nomster95/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/nomster95/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nomster95/leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nomster95/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/nomster95/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/nomster95/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/nomster95/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -1319,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/nomster95/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nomster95/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/nomster95/leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nomster95/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/nomster95/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
 | [3923-minimum-generations-to-target-point](https://github.com/nomster95/leetcode/tree/master/3923-minimum-generations-to-target-point) |
@@ -1347,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/nomster95/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3765-complete-prime-number](https://github.com/nomster95/leetcode/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nomster95/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nomster95/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/nomster95/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Tree
 |  |
