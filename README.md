@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nomster95/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nomster95/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nomster95/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/nomster95/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3163-string-compression-iii](https://github.com/nomster95/leetcode/tree/master/3163-string-compression-iii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nomster95/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nomster95/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nomster95/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/nomster95/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nomster95/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nomster95/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/nomster95/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -1226,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nomster95/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nomster95/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/nomster95/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/nomster95/leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nomster95/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
