@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1816-truncate-sentence](https://github.com/nomster95/leetcode/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/nomster95/leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/nomster95/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nomster95/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/nomster95/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/nomster95/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -1700,6 +1701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nomster95/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/nomster95/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/nomster95/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
