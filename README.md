@@ -708,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/nomster95/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/nomster95/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nomster95/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nomster95/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2295-replace-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nomster95/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nomster95/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nomster95/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nomster95/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -1722,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/nomster95/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nomster95/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/nomster95/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nomster95/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nomster95/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/nomster95/leetcode/tree/master/2405-optimal-partition-of-string) |
