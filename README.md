@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/nomster95/leetcode/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/nomster95/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0860-lemonade-change](https://github.com/nomster95/leetcode/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/nomster95/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/nomster95/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/nomster95/leetcode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nomster95/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/nomster95/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/nomster95/leetcode/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/nomster95/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nomster95/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nomster95/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nomster95/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1694,6 +1696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nomster95/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0846-hand-of-straights](https://github.com/nomster95/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/nomster95/leetcode/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/nomster95/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nomster95/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/nomster95/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
@@ -1834,6 +1837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nomster95/leetcode/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nomster95/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/nomster95/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/nomster95/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
 | [1222-queens-that-can-attack-the-king](https://github.com/nomster95/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
