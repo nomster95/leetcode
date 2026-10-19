@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nomster95/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nomster95/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nomster95/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1029-two-city-scheduling](https://github.com/nomster95/leetcode/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/nomster95/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/nomster95/leetcode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/nomster95/leetcode/tree/master/1052-grumpy-bookstore-owner) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/nomster95/leetcode/tree/master/0846-hand-of-straights) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/nomster95/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/nomster95/leetcode/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/nomster95/leetcode/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nomster95/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1708,6 +1710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/nomster95/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nomster95/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/nomster95/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1029-two-city-scheduling](https://github.com/nomster95/leetcode/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nomster95/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -2218,4 +2221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/nomster95/leetcode/tree/master/1051-height-checker) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/nomster95/leetcode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/nomster95/leetcode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
