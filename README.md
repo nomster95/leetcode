@@ -1300,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/nomster95/leetcode/tree/master/0677-map-sum-pairs) |
 | [1476-subrectangle-queries](https://github.com/nomster95/leetcode/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/nomster95/leetcode/tree/master/1603-design-parking-system) |
+| [1845-seat-reservation-manager](https://github.com/nomster95/leetcode/tree/master/1845-seat-reservation-manager) |
 | [2043-simple-bank-system](https://github.com/nomster95/leetcode/tree/master/2043-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nomster95/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -1666,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/nomster95/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1845-seat-reservation-manager](https://github.com/nomster95/leetcode/tree/master/1845-seat-reservation-manager) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nomster95/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
