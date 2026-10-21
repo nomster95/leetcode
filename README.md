@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nomster95/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nomster95/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
+| [3829-design-ride-sharing-system](https://github.com/nomster95/leetcode/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/nomster95/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/nomster95/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
@@ -1313,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/nomster95/leetcode/tree/master/2043-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nomster95/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3829-design-ride-sharing-system](https://github.com/nomster95/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
 | ------- |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nomster95/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nomster95/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nomster95/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3829-design-ride-sharing-system](https://github.com/nomster95/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Simulation
 |  |
 | ------- |
@@ -2286,4 +2289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/nomster95/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3829-design-ride-sharing-system](https://github.com/nomster95/leetcode/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
