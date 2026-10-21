@@ -2,17 +2,17 @@ import heapq
 class SeatManager:
 
     def __init__(self, n: int):
-        self.n = n
+        self.next = 1
         self.heap = []
-        for i in range(1,n+1):
-            heapq.heappush(self.heap,i)
-
-
         
 
     def reserve(self) -> int:
-        x = heapq.heappop(self.heap)
-        return x
+        if self.heap and self.heap[0]<self.next:
+            return heapq.heappop(self.heap)
+
+        self.next+=1
+        return self.next - 1    
+        
 
         
 
