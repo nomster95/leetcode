@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nomster95/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-shuffle-string](https://github.com/nomster95/leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/nomster95/leetcode/tree/master/1534-count-good-triplets) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nomster95/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/nomster95/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nomster95/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nomster95/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/nomster95/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nomster95/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nomster95/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/nomster95/leetcode/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/nomster95/leetcode/tree/master/1829-maximum-xor-for-each-query) |
@@ -1778,6 +1780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/nomster95/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nomster95/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nomster95/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nomster95/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nomster95/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/nomster95/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
