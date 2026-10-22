@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nomster95/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nomster95/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nomster95/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nomster95/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nomster95/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/nomster95/leetcode/tree/master/0042-trapping-rain-water) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nomster95/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nomster95/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nomster95/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nomster95/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nomster95/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nomster95/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nomster95/leetcode/tree/master/0039-combination-sum) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nomster95/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nomster95/leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/nomster95/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/nomster95/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/nomster95/leetcode/tree/master/0169-majority-element) |
