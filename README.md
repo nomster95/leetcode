@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/nomster95/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3295-report-spam-message](https://github.com/nomster95/leetcode/tree/master/3295-report-spam-message) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/nomster95/leetcode/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/nomster95/leetcode/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nomster95/leetcode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nomster95/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3295-report-spam-message](https://github.com/nomster95/leetcode/tree/master/3295-report-spam-message) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/nomster95/leetcode/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/nomster95/leetcode/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nomster95/leetcode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nomster95/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -1903,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/nomster95/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/nomster95/leetcode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/nomster95/leetcode/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/nomster95/leetcode/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nomster95/leetcode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nomster95/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
