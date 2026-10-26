@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/nomster95/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nomster95/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nomster95/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nomster95/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nomster95/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nomster95/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -1679,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nomster95/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/nomster95/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nomster95/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/nomster95/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nomster95/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nomster95/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1968,6 +1970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
 | [1222-queens-that-can-attack-the-king](https://github.com/nomster95/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/nomster95/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nomster95/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nomster95/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nomster95/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
