@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/nomster95/leetcode/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nomster95/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/nomster95/leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nomster95/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nomster95/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
@@ -1739,6 +1740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nomster95/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Quickselect
@@ -1989,6 +1991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nomster95/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nomster95/leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nomster95/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -2137,6 +2140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/nomster95/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bucket Sort
 |  |
@@ -2309,6 +2313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nomster95/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
