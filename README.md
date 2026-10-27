@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/nomster95/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/nomster95/leetcode/tree/master/0980-unique-paths-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/nomster95/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nomster95/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/nomster95/leetcode/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/nomster95/leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [0980-unique-paths-iii](https://github.com/nomster95/leetcode/tree/master/0980-unique-paths-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nomster95/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nomster95/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nomster95/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1977,6 +1979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/nomster95/leetcode/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/nomster95/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/nomster95/leetcode/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/nomster95/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/nomster95/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nomster95/leetcode/tree/master/1020-number-of-enclaves) |
 | [1222-queens-that-can-attack-the-king](https://github.com/nomster95/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
@@ -2187,6 +2190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nomster95/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/nomster95/leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/nomster95/leetcode/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/nomster95/leetcode/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/nomster95/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nomster95/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -2409,4 +2413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nomster95/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/nomster95/leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
