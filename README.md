@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/nomster95/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1901-find-a-peak-element-ii](https://github.com/nomster95/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/nomster95/leetcode/tree/master/1905-count-sub-islands) |
 | [1920-build-array-from-permutation](https://github.com/nomster95/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -1214,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/nomster95/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nomster95/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/nomster95/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nomster95/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/nomster95/leetcode/tree/master/2126-destroying-asteroids) |
