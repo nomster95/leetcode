@@ -2200,6 +2200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/nomster95/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1791-find-center-of-star-graph](https://github.com/nomster95/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nomster95/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nomster95/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nomster95/leetcode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
