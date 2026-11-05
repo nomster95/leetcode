@@ -8,6 +8,7 @@ class Solution:
             for j in range(m):
                 if abs(arr1[i]-arr2[j])<=d:
                     dist = False
+                    break
 
             if dist:
                 ans+=1        
