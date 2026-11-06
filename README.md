@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nomster95/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nomster95/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1310-xor-queries-of-a-subarray](https://github.com/nomster95/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1313-decompress-run-length-encoded-list](https://github.com/nomster95/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nomster95/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/nomster95/leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nomster95/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
