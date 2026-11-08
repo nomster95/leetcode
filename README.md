@@ -1826,6 +1826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nomster95/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Quickselect
 |  |
@@ -2254,6 +2255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nomster95/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bucket Sort
 |  |
@@ -2432,6 +2434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nomster95/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
