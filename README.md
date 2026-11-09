@@ -1041,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/nomster95/leetcode/tree/master/2652-sum-multiples) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nomster95/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nomster95/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
+| [2769-find-the-maximum-achievable-number](https://github.com/nomster95/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nomster95/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nomster95/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/nomster95/leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
