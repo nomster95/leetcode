@@ -949,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/nomster95/leetcode/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/nomster95/leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/nomster95/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Math
 |  |
 | ------- |
@@ -1839,6 +1840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nomster95/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Quickselect
 |  |
 | ------- |
@@ -2106,6 +2108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Enumeration
 |  |
 | ------- |
@@ -2270,6 +2273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2448,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
