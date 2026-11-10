@@ -1007,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nomster95/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nomster95/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1860-incremental-memory-leak](https://github.com/nomster95/leetcode/tree/master/1860-incremental-memory-leak) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nomster95/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1439,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/nomster95/leetcode/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/nomster95/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nomster95/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1860-incremental-memory-leak](https://github.com/nomster95/leetcode/tree/master/1860-incremental-memory-leak) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nomster95/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/nomster95/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nomster95/leetcode/tree/master/1929-concatenation-of-array) |
