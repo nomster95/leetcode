@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3941-password-strength](https://github.com/nomster95/leetcode/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/nomster95/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/nomster95/leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nomster95/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/nomster95/leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## String Matching
 |  |
@@ -1840,6 +1841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nomster95/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nomster95/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Quickselect
 |  |
@@ -2273,6 +2275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nomster95/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Bucket Sort
 |  |
@@ -2452,6 +2455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nomster95/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Dijkstra's Algorithm
 |  |
