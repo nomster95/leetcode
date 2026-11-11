@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/nomster95/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nomster95/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nomster95/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1286-iterator-for-combination](https://github.com/nomster95/leetcode/tree/master/1286-iterator-for-combination) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/nomster95/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nomster95/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nomster95/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1404,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nomster95/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/nomster95/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0677-map-sum-pairs](https://github.com/nomster95/leetcode/tree/master/0677-map-sum-pairs) |
+| [1286-iterator-for-combination](https://github.com/nomster95/leetcode/tree/master/1286-iterator-for-combination) |
 | [1352-product-of-the-last-k-numbers](https://github.com/nomster95/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1476-subrectangle-queries](https://github.com/nomster95/leetcode/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/nomster95/leetcode/tree/master/1603-design-parking-system) |
@@ -2306,6 +2308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/nomster95/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/nomster95/leetcode/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/nomster95/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1286-iterator-for-combination](https://github.com/nomster95/leetcode/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nomster95/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/nomster95/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -2554,4 +2557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nomster95/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Iterator
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/nomster95/leetcode/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
