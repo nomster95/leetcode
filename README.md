@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nomster95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nomster95/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nomster95/leetcode/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/nomster95/leetcode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/nomster95/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nomster95/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nomster95/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/nomster95/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/nomster95/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nomster95/leetcode/tree/master/0342-power-of-four) |
+| [0398-random-pick-index](https://github.com/nomster95/leetcode/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/nomster95/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nomster95/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nomster95/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -2574,4 +2576,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/nomster95/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/nomster95/leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/nomster95/leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
