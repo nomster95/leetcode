@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nomster95/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nomster95/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nomster95/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/nomster95/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/nomster95/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/nomster95/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/nomster95/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/nomster95/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/nomster95/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nomster95/leetcode/tree/master/0342-power-of-four) |
+| [0382-linked-list-random-node](https://github.com/nomster95/leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/nomster95/leetcode/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/nomster95/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nomster95/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -2579,9 +2581,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/nomster95/leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/nomster95/leetcode/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/nomster95/leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/nomster95/leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
