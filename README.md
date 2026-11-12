@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nomster95/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3340-check-balanced-string](https://github.com/nomster95/leetcode/tree/master/3340-check-balanced-string) |
+| [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/nomster95/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nomster95/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nomster95/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nomster95/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3531-count-covered-buildings](https://github.com/nomster95/leetcode/tree/master/3531-count-covered-buildings) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nomster95/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
@@ -1432,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/nomster95/leetcode/tree/master/2043-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nomster95/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3829-design-ride-sharing-system](https://github.com/nomster95/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
@@ -2136,6 +2140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nomster95/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
