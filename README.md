@@ -966,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/nomster95/leetcode/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/nomster95/leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/nomster95/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
+| [4039-sum-of-decoded-numbers](https://github.com/nomster95/leetcode/tree/master/4039-sum-of-decoded-numbers) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Math
 |  |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4010-maximize-pair-strength-using-gcd](https://github.com/nomster95/leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/nomster95/leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/nomster95/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
+| [4039-sum-of-decoded-numbers](https://github.com/nomster95/leetcode/tree/master/4039-sum-of-decoded-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -1527,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/nomster95/leetcode/tree/master/3921-score-validator) |
 | [3923-minimum-generations-to-target-point](https://github.com/nomster95/leetcode/tree/master/3923-minimum-generations-to-target-point) |
 | [3925-concatenate-array-with-reverse](https://github.com/nomster95/leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [4039-sum-of-decoded-numbers](https://github.com/nomster95/leetcode/tree/master/4039-sum-of-decoded-numbers) |
 ## Number Theory
 |  |
 | ------- |
