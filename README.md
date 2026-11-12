@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nomster95/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/nomster95/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nomster95/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/nomster95/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2390-removing-stars-from-a-string](https://github.com/nomster95/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nomster95/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nomster95/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2191-sort-the-jumbled-numbers](https://github.com/nomster95/leetcode/tree/master/2191-sort-the-jumbled-numbers) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/nomster95/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nomster95/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/nomster95/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/nomster95/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nomster95/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nomster95/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/nomster95/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/nomster95/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2235-add-two-integers](https://github.com/nomster95/leetcode/tree/master/2235-add-two-integers) |
 | [2317-maximum-xor-after-operations](https://github.com/nomster95/leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/nomster95/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -1542,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nomster95/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nomster95/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/nomster95/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/nomster95/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2413-smallest-even-multiple](https://github.com/nomster95/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/nomster95/leetcode/tree/master/2427-number-of-common-factors) |
@@ -2406,6 +2410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nomster95/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/nomster95/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/nomster95/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2427-number-of-common-factors](https://github.com/nomster95/leetcode/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nomster95/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -2625,4 +2630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/nomster95/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/nomster95/leetcode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/nomster95/leetcode/tree/master/0398-random-pick-index) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/nomster95/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
