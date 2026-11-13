@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nomster95/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/nomster95/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/nomster95/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nomster95/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/nomster95/leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -1043,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nomster95/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nomster95/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/nomster95/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nomster95/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1860-incremental-memory-leak](https://github.com/nomster95/leetcode/tree/master/1860-incremental-memory-leak) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/nomster95/leetcode/tree/master/1952-three-divisors) |
@@ -1205,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/nomster95/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/nomster95/leetcode/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/nomster95/leetcode/tree/master/1829-maximum-xor-for-each-query) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nomster95/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nomster95/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nomster95/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nomster95/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
