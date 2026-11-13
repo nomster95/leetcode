@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/nomster95/leetcode/tree/master/2028-find-missing-observations) |
 | [2043-simple-bank-system](https://github.com/nomster95/leetcode/tree/master/2043-simple-bank-system) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nomster95/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2050-parallel-courses-iii](https://github.com/nomster95/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nomster95/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2079-watering-plants](https://github.com/nomster95/leetcode/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nomster95/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1934,6 +1935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nomster95/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nomster95/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nomster95/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2050-parallel-courses-iii](https://github.com/nomster95/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nomster95/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nomster95/leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -2326,6 +2328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/nomster95/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/nomster95/leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2050-parallel-courses-iii](https://github.com/nomster95/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nomster95/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nomster95/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nomster95/leetcode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
@@ -2548,12 +2551,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nomster95/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/nomster95/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/nomster95/leetcode/tree/master/1462-course-schedule-iv) |
+| [2050-parallel-courses-iii](https://github.com/nomster95/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nomster95/leetcode/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/nomster95/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/nomster95/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2050-parallel-courses-iii](https://github.com/nomster95/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
