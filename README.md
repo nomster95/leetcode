@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/nomster95/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/nomster95/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nomster95/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1106-parsing-a-boolean-expression](https://github.com/nomster95/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/nomster95/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nomster95/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nomster95/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nomster95/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nomster95/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nomster95/leetcode/tree/master/0342-power-of-four) |
+| [1106-parsing-a-boolean-expression](https://github.com/nomster95/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nomster95/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/nomster95/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/nomster95/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nomster95/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1106-parsing-a-boolean-expression](https://github.com/nomster95/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nomster95/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nomster95/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nomster95/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
