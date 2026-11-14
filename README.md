@@ -903,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nomster95/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/nomster95/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nomster95/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/nomster95/leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nomster95/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nomster95/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
@@ -2081,6 +2082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nomster95/leetcode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nomster95/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nomster95/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/nomster95/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Brainteaser
 |  |
@@ -2259,6 +2261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/nomster95/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nomster95/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nomster95/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nomster95/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nomster95/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nomster95/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/nomster95/leetcode/tree/master/3719-longest-balanced-subarray-i) |
