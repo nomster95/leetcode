@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/nomster95/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nomster95/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1630-arithmetic-subarrays](https://github.com/nomster95/leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nomster95/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/nomster95/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nomster95/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -1167,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nomster95/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nomster95/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nomster95/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/nomster95/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nomster95/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nomster95/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1709,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/nomster95/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nomster95/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/nomster95/leetcode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/nomster95/leetcode/tree/master/1905-count-sub-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nomster95/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nomster95/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1829,6 +1832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nomster95/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/nomster95/leetcode/tree/master/1462-course-schedule-iv) |
 | [1609-even-odd-tree](https://github.com/nomster95/leetcode/tree/master/1609-even-odd-tree) |
+| [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/nomster95/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/nomster95/leetcode/tree/master/1905-count-sub-islands) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nomster95/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1881,6 +1885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nomster95/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1845-seat-reservation-manager](https://github.com/nomster95/leetcode/tree/master/1845-seat-reservation-manager) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nomster95/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
@@ -2149,6 +2154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1476-subrectangle-queries](https://github.com/nomster95/leetcode/tree/master/1476-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/nomster95/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/nomster95/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/nomster95/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/nomster95/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -2285,6 +2291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/nomster95/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/nomster95/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nomster95/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/nomster95/leetcode/tree/master/1905-count-sub-islands) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nomster95/leetcode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nomster95/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -2538,6 +2545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nomster95/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nomster95/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nomster95/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Bellman–Ford Algorithm
 |  |
