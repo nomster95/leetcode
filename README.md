@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/nomster95/leetcode/tree/master/1720-decode-xored-array) |
 | [1726-tuple-with-same-product](https://github.com/nomster95/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/nomster95/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nomster95/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1765-map-of-highest-peak](https://github.com/nomster95/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nomster95/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nomster95/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -1952,6 +1953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nomster95/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nomster95/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nomster95/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nomster95/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2050-parallel-courses-iii](https://github.com/nomster95/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nomster95/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nomster95/leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
