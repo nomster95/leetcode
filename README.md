@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-relocate-marbles](https://github.com/nomster95/leetcode/tree/master/2766-relocate-marbles) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/nomster95/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/nomster95/leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nomster95/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/nomster95/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nomster95/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2831-find-the-longest-equal-subarray](https://github.com/nomster95/leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2895-minimum-processing-time](https://github.com/nomster95/leetcode/tree/master/2895-minimum-processing-time) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nomster95/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nomster95/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nomster95/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2831-find-the-longest-equal-subarray](https://github.com/nomster95/leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/nomster95/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Bit Manipulation
@@ -2082,6 +2085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nomster95/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nomster95/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/nomster95/leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nomster95/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nomster95/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nomster95/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
