@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/nomster95/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nomster95/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nomster95/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2347-best-poker-hand](https://github.com/nomster95/leetcode/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/nomster95/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nomster95/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2321-maximum-score-of-spliced-array](https://github.com/nomster95/leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 | [2326-spiral-matrix-iv](https://github.com/nomster95/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nomster95/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/nomster95/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2347-best-poker-hand](https://github.com/nomster95/leetcode/tree/master/2347-best-poker-hand) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/nomster95/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nomster95/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nomster95/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nomster95/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nomster95/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/nomster95/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nomster95/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -1914,6 +1917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/nomster95/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nomster95/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nomster95/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nomster95/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/nomster95/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
