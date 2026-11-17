@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/nomster95/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/nomster95/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nomster95/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/nomster95/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nomster95/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/nomster95/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nomster95/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nomster95/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1079-letter-tile-possibilities](https://github.com/nomster95/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/nomster95/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nomster95/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/nomster95/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nomster95/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1094-car-pooling](https://github.com/nomster95/leetcode/tree/master/1094-car-pooling) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/nomster95/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/nomster95/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1222-queens-that-can-attack-the-king](https://github.com/nomster95/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nomster95/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1188,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/nomster95/leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1004-max-consecutive-ones-iii](https://github.com/nomster95/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nomster95/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/nomster95/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1208-get-equal-substrings-within-budget](https://github.com/nomster95/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nomster95/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nomster95/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1298,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nomster95/leetcode/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nomster95/leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/nomster95/leetcode/tree/master/1094-car-pooling) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/nomster95/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nomster95/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nomster95/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/nomster95/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
