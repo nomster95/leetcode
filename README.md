@@ -865,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/nomster95/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/nomster95/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nomster95/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/nomster95/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nomster95/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/nomster95/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nomster95/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -1958,6 +1959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/nomster95/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/nomster95/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2611-mice-and-cheese](https://github.com/nomster95/leetcode/tree/master/2611-mice-and-cheese) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
@@ -2078,6 +2080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/nomster95/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nomster95/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nomster95/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/nomster95/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/nomster95/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2592-maximize-greatness-of-an-array](https://github.com/nomster95/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
