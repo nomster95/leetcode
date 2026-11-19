@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nomster95/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/nomster95/leetcode/tree/master/3174-clear-digits) |
+| [3523-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/nomster95/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nomster95/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/nomster95/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3523-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3527-find-the-most-common-response](https://github.com/nomster95/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3531-count-covered-buildings](https://github.com/nomster95/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/nomster95/leetcode/tree/master/3583-count-special-triplets) |
@@ -2084,6 +2086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nomster95/leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nomster95/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3523-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/nomster95/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3675-minimum-operations-to-transform-string](https://github.com/nomster95/leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/nomster95/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -2298,6 +2301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nomster95/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nomster95/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/nomster95/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3523-make-array-non-decreasing](https://github.com/nomster95/leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
 | ------- |
