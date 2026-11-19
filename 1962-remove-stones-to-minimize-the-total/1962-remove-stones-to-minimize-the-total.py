@@ -12,10 +12,9 @@ class Solution:
             heapq.heappush(h,-new_ele)
 
 
-        for x in h:
-            total+=abs(x)
+        
 
-        return total    
+        return -sum(h)    
 
 
         
