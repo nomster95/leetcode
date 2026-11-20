@@ -1081,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nomster95/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nomster95/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/nomster95/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1753-maximum-score-from-removing-stones](https://github.com/nomster95/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/nomster95/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nomster95/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/nomster95/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -1953,6 +1954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nomster95/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/nomster95/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/nomster95/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1753-maximum-score-from-removing-stones](https://github.com/nomster95/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1845-seat-reservation-manager](https://github.com/nomster95/leetcode/tree/master/1845-seat-reservation-manager) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nomster95/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nomster95/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -2068,6 +2070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/nomster95/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/nomster95/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nomster95/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1753-maximum-score-from-removing-stones](https://github.com/nomster95/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/nomster95/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/nomster95/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nomster95/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
