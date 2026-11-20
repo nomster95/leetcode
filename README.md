@@ -916,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/nomster95/leetcode/tree/master/3024-type-of-triangle) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nomster95/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nomster95/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nomster95/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nomster95/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nomster95/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3101-count-alternating-subarrays](https://github.com/nomster95/leetcode/tree/master/3101-count-alternating-subarrays) |
@@ -1583,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/nomster95/leetcode/tree/master/2810-faulty-keyboard) |
 | [2961-double-modular-exponentiation](https://github.com/nomster95/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nomster95/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nomster95/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/nomster95/leetcode/tree/master/3174-clear-digits) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nomster95/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -1974,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/nomster95/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nomster95/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nomster95/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nomster95/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
