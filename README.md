@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/nomster95/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nomster95/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nomster95/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/nomster95/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/nomster95/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/nomster95/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -1574,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nomster95/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nomster95/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nomster95/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2766-relocate-marbles](https://github.com/nomster95/leetcode/tree/master/2766-relocate-marbles) |
 | [2810-faulty-keyboard](https://github.com/nomster95/leetcode/tree/master/2810-faulty-keyboard) |
@@ -1962,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nomster95/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nomster95/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/nomster95/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nomster95/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2611-mice-and-cheese](https://github.com/nomster95/leetcode/tree/master/2611-mice-and-cheese) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2679-sum-in-a-matrix](https://github.com/nomster95/leetcode/tree/master/2679-sum-in-a-matrix) |
