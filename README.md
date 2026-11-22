@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/nomster95/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nomster95/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nomster95/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nomster95/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/nomster95/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nomster95/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nomster95/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nomster95/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nomster95/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1389,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2933-high-access-employees](https://github.com/nomster95/leetcode/tree/master/2933-high-access-employees) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nomster95/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/nomster95/leetcode/tree/master/3024-type-of-triangle) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nomster95/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nomster95/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1482,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nomster95/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nomster95/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nomster95/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/nomster95/leetcode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
@@ -2124,6 +2128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/nomster95/leetcode/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/nomster95/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nomster95/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nomster95/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/nomster95/leetcode/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/nomster95/leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
