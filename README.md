@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/nomster95/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nomster95/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nomster95/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nomster95/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1148,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nomster95/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2947-count-beautiful-substrings-i](https://github.com/nomster95/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2961-double-modular-exponentiation](https://github.com/nomster95/leetcode/tree/master/2961-double-modular-exponentiation) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nomster95/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/nomster95/leetcode/tree/master/3024-type-of-triangle) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/nomster95/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3099-harshad-number](https://github.com/nomster95/leetcode/tree/master/3099-harshad-number) |
@@ -2128,6 +2130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/nomster95/leetcode/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/nomster95/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nomster95/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nomster95/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nomster95/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/nomster95/leetcode/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
