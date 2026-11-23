@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nomster95/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3340-check-balanced-string](https://github.com/nomster95/leetcode/tree/master/3340-check-balanced-string) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/nomster95/leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/nomster95/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nomster95/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nomster95/leetcode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nomster95/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/nomster95/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/nomster95/leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nomster95/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -1411,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/nomster95/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/nomster95/leetcode/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/nomster95/leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/nomster95/leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nomster95/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/nomster95/leetcode/tree/master/3467-transform-array-by-parity) |
