@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/nomster95/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/nomster95/leetcode/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/nomster95/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3885-design-event-manager](https://github.com/nomster95/leetcode/tree/master/3885-design-event-manager) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/nomster95/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3923-minimum-generations-to-target-point](https://github.com/nomster95/leetcode/tree/master/3923-minimum-generations-to-target-point) |
 | [3941-password-strength](https://github.com/nomster95/leetcode/tree/master/3941-password-strength) |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/nomster95/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nomster95/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nomster95/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3885-design-event-manager](https://github.com/nomster95/leetcode/tree/master/3885-design-event-manager) |
 | [3895-count-digit-appearances](https://github.com/nomster95/leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nomster95/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/nomster95/leetcode/tree/master/3899-angles-of-a-triangle) |
@@ -1555,6 +1557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nomster95/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3484-design-spreadsheet](https://github.com/nomster95/leetcode/tree/master/3484-design-spreadsheet) |
 | [3829-design-ride-sharing-system](https://github.com/nomster95/leetcode/tree/master/3829-design-ride-sharing-system) |
+| [3885-design-event-manager](https://github.com/nomster95/leetcode/tree/master/3885-design-event-manager) |
 ## Queue
 |  |
 | ------- |
@@ -2029,6 +2032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nomster95/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nomster95/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nomster95/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3885-design-event-manager](https://github.com/nomster95/leetcode/tree/master/3885-design-event-manager) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nomster95/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/nomster95/leetcode/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Quickselect
@@ -2662,6 +2666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/nomster95/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [3885-design-event-manager](https://github.com/nomster95/leetcode/tree/master/3885-design-event-manager) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
