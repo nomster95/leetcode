@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nomster95/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/nomster95/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nomster95/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nomster95/leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/nomster95/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nomster95/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/nomster95/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nomster95/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nomster95/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nomster95/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nomster95/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2831-find-the-longest-equal-subarray](https://github.com/nomster95/leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/nomster95/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nomster95/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nomster95/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nomster95/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2831-find-the-longest-equal-subarray](https://github.com/nomster95/leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/nomster95/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1407,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-relocate-marbles](https://github.com/nomster95/leetcode/tree/master/2766-relocate-marbles) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/nomster95/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2785-sort-vowels-in-a-string](https://github.com/nomster95/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nomster95/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2895-minimum-processing-time](https://github.com/nomster95/leetcode/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/nomster95/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
