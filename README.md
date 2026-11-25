@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nomster95/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/nomster95/leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nomster95/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nomster95/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nomster95/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nomster95/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nomster95/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nomster95/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/nomster95/leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3101-count-alternating-subarrays](https://github.com/nomster95/leetcode/tree/master/3101-count-alternating-subarrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nomster95/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/nomster95/leetcode/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -1421,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/nomster95/leetcode/tree/master/3024-type-of-triangle) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/nomster95/leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nomster95/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/nomster95/leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/nomster95/leetcode/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/nomster95/leetcode/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/nomster95/leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -1633,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nomster95/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nomster95/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/nomster95/leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3174-clear-digits](https://github.com/nomster95/leetcode/tree/master/3174-clear-digits) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nomster95/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3271-hash-divided-string](https://github.com/nomster95/leetcode/tree/master/3271-hash-divided-string) |
@@ -2028,6 +2032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2931-maximum-spending-after-buying-items](https://github.com/nomster95/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2974-minimum-number-game](https://github.com/nomster95/leetcode/tree/master/2974-minimum-number-game) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nomster95/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/nomster95/leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/nomster95/leetcode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/nomster95/leetcode/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nomster95/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
