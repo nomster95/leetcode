@@ -1182,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nomster95/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nomster95/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nomster95/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/nomster95/leetcode/tree/master/3360-stone-removal-game) |
 | [3492-maximum-containers-on-a-ship](https://github.com/nomster95/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nomster95/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/nomster95/leetcode/tree/master/3516-find-closest-person) |
@@ -1641,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/nomster95/leetcode/tree/master/3174-clear-digits) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nomster95/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3271-hash-divided-string](https://github.com/nomster95/leetcode/tree/master/3271-hash-divided-string) |
+| [3360-stone-removal-game](https://github.com/nomster95/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/nomster95/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/nomster95/leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/nomster95/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
