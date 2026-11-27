@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nomster95/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-shuffle-string](https://github.com/nomster95/leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/nomster95/leetcode/tree/master/1534-count-good-triplets) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/nomster95/leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/nomster95/leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nomster95/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/nomster95/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -1615,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/nomster95/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nomster95/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/nomster95/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/nomster95/leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nomster95/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/nomster95/leetcode/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/nomster95/leetcode/tree/master/1688-count-of-matches-in-tournament) |
