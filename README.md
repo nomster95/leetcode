@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2933-high-access-employees](https://github.com/nomster95/leetcode/tree/master/2933-high-access-employees) |
 | [2942-find-words-containing-character](https://github.com/nomster95/leetcode/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/nomster95/leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/nomster95/leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nomster95/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nomster95/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -2095,6 +2096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/nomster95/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nomster95/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2321-maximum-score-of-spliced-array](https://github.com/nomster95/leetcode/tree/master/2321-maximum-score-of-spliced-array) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/nomster95/leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nomster95/leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/nomster95/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -2178,6 +2180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/nomster95/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2895-minimum-processing-time](https://github.com/nomster95/leetcode/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/nomster95/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/nomster95/leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nomster95/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nomster95/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nomster95/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
