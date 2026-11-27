@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nomster95/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/nomster95/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nomster95/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/nomster95/leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2938-separate-black-and-white-balls](https://github.com/nomster95/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nomster95/leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/nomster95/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/nomster95/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/nomster95/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/nomster95/leetcode/tree/master/2810-faulty-keyboard) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/nomster95/leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nomster95/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nomster95/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nomster95/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
