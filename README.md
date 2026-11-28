@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nomster95/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nomster95/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nomster95/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/nomster95/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3813-vowel-consonant-score](https://github.com/nomster95/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3839-number-of-prefix-connected-groups](https://github.com/nomster95/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/nomster95/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nomster95/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nomster95/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nomster95/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/nomster95/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/nomster95/leetcode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3829-design-ride-sharing-system](https://github.com/nomster95/leetcode/tree/master/3829-design-ride-sharing-system) |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nomster95/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nomster95/leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nomster95/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/nomster95/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3809-best-reachable-tower](https://github.com/nomster95/leetcode/tree/master/3809-best-reachable-tower) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/nomster95/leetcode/tree/master/3810-minimum-operations-to-reach-target-array) |
@@ -2394,6 +2397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/nomster95/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nomster95/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/nomster95/leetcode/tree/master/3765-complete-prime-number) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/nomster95/leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/nomster95/leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nomster95/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/nomster95/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
